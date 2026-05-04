@@ -122,4 +122,4 @@ This gives background removal its own dedicated route with full
 UI instead of being a sub-tool inside the editor. Also added 
 background removal exports to glamai-gallery localStorage with 
 filter label "BG Removed" so they appear correctly in gallery 
-with proper categorization.
+with proper categorization.   

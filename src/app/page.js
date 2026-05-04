@@ -59,7 +59,7 @@ export default function Home() {
             </div>
           </Link>
 
-          <Link href="/editor?tool=bg">
+          <Link href="/background">
             <div className="bg-[#1A1A1A] rounded-2xl p-4 border border-[#2A2A2A] hover:border-[#FFD700] transition-all">
               <div className="text-2xl mb-2">🖼️</div>
               <p className="text-white text-sm font-semibold">Background AI</p>
